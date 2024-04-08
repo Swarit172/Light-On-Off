@@ -1,0 +1,41 @@
+body {
+    background-color: aquamarine;
+    /* align-items: center;*/
+    /* align-content: center;  */
+    text-align: center;
+    margin-top: 17%;
+}
+
+.imageLight {
+    background-color: transparent;
+}
+
+button {
+    /* background-color: rgb(138, 164, 164); */
+    border-radius: 5px;
+    font-size: medium;
+    color: rgb(8, 39, 67);
+    background-color: transparent;
+    margin: 2%;
+    padding: 2px;
+}
+
+
+
+button:hover {
+    background-color: rgb(21, 78, 78);
+    border-radius: 5px;
+    color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
